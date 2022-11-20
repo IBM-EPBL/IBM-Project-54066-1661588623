@@ -57,15 +57,15 @@ To accomplish this, we have to complete all the activities and tasks listed belo
   
 # Pre-Requisites
 
-Anaconda Navigator :
+Anaconda Flow:
 
-Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.
+Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.
 
-Tensor flow:
+Tensor Flow:
 
-TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML-powered applications.
+TensorFlow is an end-to-end open-source platform for machine learning. It has a flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML-powered applications.
 
-Keras: 
+Keras Flow: 
 
 Keras leverages various optimization techniques to make high-level neural network API easier and more performant. It supports the following features:
 
